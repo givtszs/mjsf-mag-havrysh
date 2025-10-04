@@ -4,3 +4,6 @@
 [submodule "vue-lab2"]
 	path = vue-lab2
 	url = https://github.com/givtszs/vue-lab2
+[submodule "vue-lab3"]
+	path = vue-lab3
+	url = https://github.com/givtszs/vue-lab3
